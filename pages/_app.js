@@ -1,9 +1,10 @@
+import "tailwindcss/tailwind.css";
 import "../styles/globals.css";
 import React, { useEffect } from "react";
 import TagManager from "react-gtm-module";
 
 const tagManagerArgs = {
-  gtmId: "G-GSDW2Y55XV",
+  gtmId: "GTM-KJJZXBW",
 };
 
 function MyApp({ Component, pageProps }) {
